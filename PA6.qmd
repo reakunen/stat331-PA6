@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Drew, Brian, Diego, Catherine"
 format: html
 editor: visual
 embed-resources: true
